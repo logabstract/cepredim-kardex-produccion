@@ -1,0 +1,1 @@
+Aplicando paginación mediante Codeigniter recuperando información desde una base de datos Firebird.
